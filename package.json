@@ -1,0 +1,21 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "typescript": "^5.4.5"
+  },
+  "type": "module",
+  "dependencies": {
+    "@inquirer/prompts": "^5.0.5",
+    "inquirer": "^9.1.4",
+    "lowdb": "^5.1.0"
+  }
+}
